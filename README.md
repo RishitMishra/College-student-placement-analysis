@@ -12,10 +12,13 @@ This project explores a college placement dataset and compares several classific
 
 ## Models Tried
 
-- Logistic Regression
-- Gaussian Naive Bayes
-- Support Vector Machine
-- Decision Tree Classifier
+- Logistic Regression - 90.35%
+- Naive Bayes Classifier - 91%
+- SVM Classifier - 97.9%
+- Decision Tree - 96.3%
+- KNN - 95%
+- XGBoost - 99.05%
+- Random Forest - 99.95%
 
 ## Workflow
 
